@@ -1,6 +1,6 @@
 package com.bjlemon;
 
-public class TestJason111 {
+public class TestJason {
     public static void main(String[] args) {
         System.out.println("hello world");
         System.out.println("haha");
