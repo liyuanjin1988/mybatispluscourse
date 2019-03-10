@@ -6,5 +6,6 @@ public class TestJason {
         System.out.println("haha");
         System.out.println("boss is a dog!");
         System.out.println("boss is a dog! too");
+        System.out.println("add sth on master");
     }
 }
