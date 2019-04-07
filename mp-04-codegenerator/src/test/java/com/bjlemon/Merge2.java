@@ -6,6 +6,7 @@ public class Merge2 {
         System.out.println("master: add 3");
         System.out.println("merge :add 2");
         System.out.println("merge :add 444");
+        System.out.println("merge :add 2222");
     }
 
 
